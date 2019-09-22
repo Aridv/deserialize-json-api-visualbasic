@@ -1,0 +1,12 @@
+C:\Users\AlexSoftware\Desktop\DeserializeAPIJson\DeserializeAPIJson\bin\Debug\DeserializeAPIJson.exe.config
+C:\Users\AlexSoftware\Desktop\DeserializeAPIJson\DeserializeAPIJson\obj\Debug\DeserializeAPIJson.vbprojResolveAssemblyReference.cache
+C:\Users\AlexSoftware\Desktop\DeserializeAPIJson\DeserializeAPIJson\obj\Debug\DeserializeAPIJson.Resources.resources
+C:\Users\AlexSoftware\Desktop\DeserializeAPIJson\DeserializeAPIJson\obj\Debug\DeserializeAPIJson.vbproj.GenerateResource.Cache
+C:\Users\AlexSoftware\Desktop\DeserializeAPIJson\DeserializeAPIJson\obj\Debug\DeserializeAPIJson.xml
+C:\Users\AlexSoftware\Desktop\DeserializeAPIJson\DeserializeAPIJson\bin\Debug\DeserializeAPIJson.exe
+C:\Users\AlexSoftware\Desktop\DeserializeAPIJson\DeserializeAPIJson\bin\Debug\DeserializeAPIJson.pdb
+C:\Users\AlexSoftware\Desktop\DeserializeAPIJson\DeserializeAPIJson\bin\Debug\DeserializeAPIJson.xml
+C:\Users\AlexSoftware\Desktop\DeserializeAPIJson\DeserializeAPIJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AlexSoftware\Desktop\DeserializeAPIJson\DeserializeAPIJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AlexSoftware\Desktop\DeserializeAPIJson\DeserializeAPIJson\obj\Debug\DeserializeAPIJson.exe
+C:\Users\AlexSoftware\Desktop\DeserializeAPIJson\DeserializeAPIJson\obj\Debug\DeserializeAPIJson.pdb
